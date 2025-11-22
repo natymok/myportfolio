@@ -72,17 +72,9 @@ export const gridItems = [
 ] as const;
 
 export const projects = [
+
   {
     id: 1,
-    title: "Your One-Stop Online Shopping Platform",
-    des: "Shop smart, shop fast, shop secure. Discover thousands of quality products at unbeatable prices — delivered straight to your door",
-    img: "/p1.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://ethioshop.vercel.app",
-    sourceCode: "https://github.com/natymok/nextjs-et-shop-online",
-  },
-  {
-    id: 2,
     title: "Yoom - Video Conferencing App",
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
@@ -91,7 +83,7 @@ export const projects = [
     sourceCode: "https://github.com/natymok/Stock-user-backend",
   },
   {
-    id: 3,
+    id: 2,
     title: "AI Image SaaS - Canva Application",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
@@ -100,7 +92,7 @@ export const projects = [
     sourceCode: "https://github.com/natymok/Stock-user-backend",
   },
   {
-    id: 4,
+    id: 3,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
@@ -108,6 +100,15 @@ export const projects = [
     link: "https://app-iphone.netlify.app",
     sourceCode: "https://github.com/natymok/Stock-user-backend",
   },
+    {
+    id: 4,
+    title: "Your One-Stop Online Shopping Platform",
+    des: "Shop smart, shop fast, shop secure. Discover thousands of quality products at unbeatable prices — delivered straight to your door",
+    img: "/p1.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://ethioshop.vercel.app",
+    sourceCode: "https://github.com/natymok/nextjs-et-shop-online",
+  }
 ] as const;
 
 export const testimonials = [
@@ -174,29 +175,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "FullStack Developer ",
+    desc: "Assisted in the development of a web-based platform using React.js,node js and express  enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
+    title: "Mobile App Dev ",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Cybersecurity Analysit",
+    desc: "Monitor networks, servers, and applications for security breaches or intrusions.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
+    thumbnail: "/exp3.png",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Lead Fullstack Developer",
+    desc: "Developed and maintained user-facing features using modern technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -206,17 +207,17 @@ export const socialMedia = [
   {
     name: "GitHub",
     img: "/git.svg",
-    link: "https://github.com/sanidhyy",
+    link: "https://github.com/natymok",
   },
   {
     name: "Twitter",
     img: "/twit.svg",
-    link: "https://twitter.com/TechnicalShubam",
+    link: "",
   },
   {
     name: "LinkedIn",
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/sanidhyy",
+    link: "",
   },
 ] as const;
 

@@ -57,21 +57,21 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/next-portfolio.git"
+    "url": "https://github.com/natymok/myportfolio.git"
   },
-  "homepage": "https://github.com/sanidhyy/next-portfolio#readme",
+  "homepage": "https://github.com/natymok/myportfolio#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/next-portfolio/issues",
+    "url": "https://github.com/natymok/myportfolio/issues",
     "email": "natymok1010@gmail.com"
   },
   "funding": [
     {
       "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
+      "url": "https://github.com/natymok"
     },
     {
       "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
+      "url": "https://github.com/natymok"
     }
   ],
   "dependencies": {
