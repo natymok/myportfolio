@@ -74,12 +74,12 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "FigPro - Collaborative Design Tool",
-    des: "A collaborative design tool with real-time collaboration, vector editing, and a responsive UI.",
-    img: "/p1.svg",
+    title: "Your One-Stop Online Shopping Platform",
+    des: "Shop smart, shop fast, shop secure. Discover thousands of quality products at unbeatable prices — delivered straight to your door",
+    img: "/p1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://clone-figmaa.netlify.app",
-    sourceCode: "https://github.com/sanidhyy/figma-clone",
+    link: "https://ethioshop.vercel.app",
+    sourceCode: "https://github.com/natymok/nextjs-et-shop-online",
   },
   {
     id: 2,
@@ -88,7 +88,7 @@ export const projects = [
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://clone-yoom.netlify.app",
-    sourceCode: "https://github.com/sanidhyy/zoom-clone",
+    sourceCode: "https://github.com/natymok/Stock-user-backend",
   },
   {
     id: 3,
@@ -97,7 +97,7 @@ export const projects = [
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "https://ai-imaginify.netlify.app",
-    sourceCode: "https://github.com/sanidhyy/imaginify",
+    sourceCode: "https://github.com/natymok/Stock-user-backend",
   },
   {
     id: 4,
@@ -106,7 +106,7 @@ export const projects = [
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://app-iphone.netlify.app",
-    sourceCode: "https://github.com/sanidhyy/apple-clone",
+    sourceCode: "https://github.com/natymok/Stock-user-backend",
   },
 ] as const;
 

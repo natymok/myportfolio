@@ -9,11 +9,11 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Natnael",
+    "email": "natymok1010@gmail.com",
+    "url": "https://github.com/natymok"
   },
-  "description": "Modern & Minimalist Next.js Portfolio.",
+  "description": " Powering the Future Through Innovation",
   "keywords": [
     "reactjs",
     "nextjs",
@@ -62,7 +62,7 @@
   "homepage": "https://github.com/sanidhyy/next-portfolio#readme",
   "bugs": {
     "url": "https://github.com/sanidhyy/next-portfolio/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "email": "natymok1010@gmail.com"
   },
   "funding": [
     {

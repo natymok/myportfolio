@@ -20,15 +20,25 @@ export const Footer = () => {
       </div>
 
       <div className="flex flex-col items-center">
-        <h1 className="heading lg:max-w-[45vw]">
-          Ready to take <span className="text-purple">your</span> digital
-          presence to the next level?
-        </h1>
+      <div className="bg-gray-900 text-white p-6 rounded-xl max-w-md">
+  <h2 className="text-2xl font-bold mb-3">Let’s Connect 🚀</h2>
 
-        <p className="my-5 text-center text-white-200 md:mt-10">
-          Reach out to me today and let&apos;s discuss how I can help your
-          achieve your goals.
-        </p>
+  <div className="space-y-2">
+    <p className="flex items-center gap-2">
+      <span className="text-blue-400">📧</span>
+      <span>natymok1010@gmail.com</span>
+    </p>
+
+    <p className="flex items-center gap-2">
+      <span className="text-blue-400">📞</span>
+      <span>+251 942167148</span>
+    </p>
+  </div>
+
+  <p className="text-gray-400 mt-3 text-sm">
+    Your ideas. Our technology. One message away.
+  </p>
+</div>
 
         <Link
           href={`mailto:${links.ownerEmail}`}
@@ -49,17 +59,15 @@ export const Footer = () => {
         <p className="text-sm font-light md:text-base md:font-normal">
           Copyright &copy; {new Date().getFullYear()}{" "}
           <Link
-            href="https://sanidhy.me"
+            href=""
             target="_blank"
             rel="noreferrer noopener"
             className="text-purple"
           >
-            Sanidhya
+            Natnael
           </Link>{" "}
-          |{" "}
-          <Link href={links.sourceCode} className="underline">
-            Source Code
-          </Link>
+     
+         
         </p>
 
         <div className="flex items-center gap-6 md:gap-3">
