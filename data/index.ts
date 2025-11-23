@@ -189,7 +189,7 @@ export const workExperience = [
   },
   {
     id: 3,
-    title: "Cybersecurity Analysit",
+    title: "Cybersecurity Analyst",
     desc: "Monitor networks, servers, and applications for security breaches or intrusions.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.png",
